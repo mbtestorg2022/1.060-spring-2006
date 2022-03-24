@@ -33,7 +33,7 @@ R1
 Review of Hydrostatics and Dimensional Analysis
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/recitation1))
+([PDF]({{< baseurl >}}/resources/recitation1))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -48,7 +48,7 @@ R2
 Stability of Floating Bodies
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6 MB]({{< baseurl >}}/resources/recitation2))
+([PDF - 1.6 MB]({{< baseurl >}}/resources/recitation2))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -63,7 +63,7 @@ R3
 Flownet and Streamline Construction
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0 MB]({{< baseurl >}}/resources/recitation3))
+([PDF - 2.0 MB]({{< baseurl >}}/resources/recitation3))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -78,7 +78,7 @@ R4
 Bernoulli Experiment
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8 MB]({{< baseurl >}}/resources/recitation4))
+([PDF - 1.8 MB]({{< baseurl >}}/resources/recitation4))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -96,7 +96,7 @@ Application of Conservation Principles for Finite Control
  
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/recitation5))
+([PDF]({{< baseurl >}}/resources/recitation5))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,7 +111,7 @@ Pipe Flow Demonstration and Analysis
  
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3 MB]({{< baseurl >}}/resources/recitation6))
+([PDF - 1.3 MB]({{< baseurl >}}/resources/recitation6))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,10 +123,10 @@ R7
 Dynamic Response of a Floating Body
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3 MB]({{< baseurl >}}/resources/recitation7))
+([PDF - 1.3 MB]({{< baseurl >}}/resources/recitation7))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/recitation7_prob))
+([PDF]({{< baseurl >}}/resources/recitation7_prob))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,10 +138,10 @@ R8
 Open Channel Flow Computations
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.5 MB]({{< baseurl >}}/resources/recitation8))
+([PDF - 1.5 MB]({{< baseurl >}}/resources/recitation8))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/recitation8_prob))
+([PDF]({{< baseurl >}}/resources/recitation8_prob))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,7 +156,7 @@ Application of Energy and Momentum Principles in Open Channel Flows
  
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/recitation9))
+([PDF]({{< baseurl >}}/resources/recitation9))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +171,7 @@ Determination of Gradually Varied Flow Profiles
  
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4 MB]({{< baseurl >}}/resources/recitation10))
+([PDF - 1.4 MB]({{< baseurl >}}/resources/recitation10))
 {{< tdclose >}}
 
 {{< trclose >}}
