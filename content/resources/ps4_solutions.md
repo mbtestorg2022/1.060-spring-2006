@@ -4,6 +4,7 @@ description: This resource provides solutions to the fourth problem set on engin
   mechanics II.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-060-engineering-mechanics-ii-spring-2006/0a7b54e335fc0ca6f636923234e8f94a_ps4_solutions.pdf
 file_type: application/pdf
+parent_uid: e4c563cd-0bf0-393e-9773-dce6d8af420b
 resourcetype: Document
 title: ps4_solutions.pdf
 uid: 0a7b54e3-35fc-0ca6-f636-923234e8f94a
