@@ -4,6 +4,11 @@ description: This resource provides information on conservation of volume, estim
   of outflow velocity, along with some derivations.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-060-engineering-mechanics-ii-spring-2006/1588d18d28aeadc1a98d11dca9f95b40_recitation4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 parent_uid: ee18de12-ed45-b384-7a83-72aa73f66dd1
 resourcetype: Document
 title: recitation4.pdf

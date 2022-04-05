@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 4acfe29a-6d77-d741-c878-fc255ec71209
 ---
@@ -12,7 +15,7 @@ Supplemental texts for the course are:
 
 Control Volume Notes ([PDF]({{< baseurl >}}/resources/cv_notes))
 
-A Few Hints on Problem Solving ([PDF]({{< baseurl >}}/resources/hin_on_prob_solv))
+A Few Hints on Problem Solving (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hin_on_prob_solv))
 
 Readings assignments in the main textbook are shown in this table.
 

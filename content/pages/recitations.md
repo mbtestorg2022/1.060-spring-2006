@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Recitations
+ocw_type: CourseSection
 title: Recitations
 uid: ee18de12-ed45-b384-7a83-72aa73f66dd1
 ---
@@ -33,7 +36,7 @@ R1
 Review of Hydrostatics and Dimensional Analysis
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/recitation1))
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/recitation1))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -48,7 +51,7 @@ R2
 Stability of Floating Bodies
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.6 MB]({{< baseurl >}}/resources/recitation2))
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6 MB]({{< baseurl >}}/resources/recitation2))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -63,7 +66,7 @@ R3
 Flownet and Streamline Construction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.0 MB]({{< baseurl >}}/resources/recitation3))
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0 MB]({{< baseurl >}}/resources/recitation3))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -78,7 +81,7 @@ R4
 Bernoulli Experiment
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.8 MB]({{< baseurl >}}/resources/recitation4))
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8 MB]({{< baseurl >}}/resources/recitation4))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -96,7 +99,7 @@ Application of Conservation Principles for Finite Control
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/recitation5))
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/recitation5))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,7 +114,7 @@ Pipe Flow Demonstration and Analysis
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3 MB]({{< baseurl >}}/resources/recitation6))
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3 MB]({{< baseurl >}}/resources/recitation6))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,10 +126,10 @@ R7
 Dynamic Response of a Floating Body
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3 MB]({{< baseurl >}}/resources/recitation7))
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3 MB]({{< baseurl >}}/resources/recitation7))
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/recitation7_prob))
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/recitation7_prob))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,10 +141,10 @@ R8
 Open Channel Flow Computations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.5 MB]({{< baseurl >}}/resources/recitation8))
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.5 MB]({{< baseurl >}}/resources/recitation8))
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/recitation8_prob))
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/recitation8_prob))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,7 +159,7 @@ Application of Energy and Momentum Principles in Open Channel Flows
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/recitation9))
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/recitation9))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +174,7 @@ Determination of Gradually Varied Flow Profiles
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.4 MB]({{< baseurl >}}/resources/recitation10))
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4 MB]({{< baseurl >}}/resources/recitation10))
 {{< tdclose >}}
 
 {{< trclose >}}

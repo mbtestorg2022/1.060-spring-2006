@@ -4,6 +4,11 @@ description: This resource provides information on the analysis of pipe flow, an
   choice "end" points.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-060-engineering-mechanics-ii-spring-2006/ce5cca64010527934a51b302cec77d48_lecture17.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 6439f51f-7325-c3ea-129c-1205b94ea80d
 resourcetype: Document
 title: lecture17.pdf

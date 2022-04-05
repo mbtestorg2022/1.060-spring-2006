@@ -4,6 +4,11 @@ description: This resource provides a number of problems taken as sample for thi
   course from the final examination held in 2001.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-060-engineering-mechanics-ii-spring-2006/4f5cad59952ac0d31b3cbd007e45b94b_sampletest_1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 parent_uid: 76dfd267-a455-52ff-38e0-8187ba261e5d
 resourcetype: Document
 title: sampletest_1.pdf

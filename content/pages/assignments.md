@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: e4c563cd-0bf0-393e-9773-dce6d8af420b
 ---
@@ -24,7 +27,7 @@ SOLUTIONS
 Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps1))
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps1_solutions))
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps1_solutions))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +36,7 @@ Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps1))
 Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps2))
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3 MB]({{< baseurl >}}/resources/ps2_solutions))
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3 MB]({{< baseurl >}}/resources/ps2_solutions))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +45,7 @@ Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps2))
 Problem Set 3 ([PDF]({{< baseurl >}}/resources/ps3))
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.4 MB]({{< baseurl >}}/resources/ps3_solutions))
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.4 MB]({{< baseurl >}}/resources/ps3_solutions))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +54,7 @@ Problem Set 3 ([PDF]({{< baseurl >}}/resources/ps3))
 Problem Set 4 ([PDF]({{< baseurl >}}/resources/ps4))
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.1 MB]({{< baseurl >}}/resources/ps4_solutions))
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.1 MB]({{< baseurl >}}/resources/ps4_solutions))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +63,7 @@ Problem Set 4 ([PDF]({{< baseurl >}}/resources/ps4))
 Problem Set 5 ([PDF]({{< baseurl >}}/resources/ps5))
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.7 MB]({{< baseurl >}}/resources/ps5_solutions))
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.7 MB]({{< baseurl >}}/resources/ps5_solutions))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +72,7 @@ Problem Set 5 ([PDF]({{< baseurl >}}/resources/ps5))
 Problem Set 6 ([PDF]({{< baseurl >}}/resources/ps6))
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.7 MB]({{< baseurl >}}/resources/ps6_solutions))
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.7 MB]({{< baseurl >}}/resources/ps6_solutions))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +81,7 @@ Problem Set 6 ([PDF]({{< baseurl >}}/resources/ps6))
 Problem Set 7 ([PDF]({{< baseurl >}}/resources/ps7))
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps7_solutions))
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps7_solutions))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +90,7 @@ Problem Set 7 ([PDF]({{< baseurl >}}/resources/ps7))
 Problem Set 8 ([PDF]({{< baseurl >}}/resources/ps8))
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.6 MB]({{< baseurl >}}/resources/ps8_solutions))
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6 MB]({{< baseurl >}}/resources/ps8_solutions))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +99,7 @@ Problem Set 8 ([PDF]({{< baseurl >}}/resources/ps8))
 Problem Set 9 ([PDF]({{< baseurl >}}/resources/ps9))
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.6 MB]({{< baseurl >}}/resources/ps9_solutions))
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6 MB]({{< baseurl >}}/resources/ps9_solutions))
 {{< tdclose >}}
 
 {{< trclose >}}

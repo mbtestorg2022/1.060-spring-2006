@@ -4,6 +4,11 @@ description: This resource provides information on a special lecture in honour o
   CPW and Opening day at Fenway.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-060-engineering-mechanics-ii-spring-2006/009850cb15625de6ec4316edb9148eb7_lecture22.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 6439f51f-7325-c3ea-129c-1205b94ea80d
 resourcetype: Document
 title: lecture22.pdf
